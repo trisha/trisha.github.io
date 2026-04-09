@@ -25,7 +25,8 @@ Go to `http://localhost:3000/` if it doesn't already
 # How to push updates
 Push your updates in the main/master branch
 
-Run `npm run deploy`
+Run `npm run deploy` 
+ - Run `npm i` if modules not found
 
 Go to GitHub Pages [settings](https://github.com/trisha/trisha.github.io/settings/pages) to re-add 'trishapan.com' as the custom domain
 
