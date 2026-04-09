@@ -15,8 +15,7 @@ function About(props) {
             <p>In 2017, I graduated from <a target="_blank" href="https://www.cmu.edu/">Carnegie Mellon</a> with a B.S. in Chemical Engineering, and a double major in Biomedical Engineering.</p>
             <p>I spent 3 years with <a target="_blank" href="https://www.accenture.com/us-en">Accenture</a> doing technology consulting while based in San Francisco.</p>
             <p>I pivoted my career after doing a coding bootcamp with <a target="_blank" href="https://generalassemb.ly/education/software-engineering-immersive-remote">General Assembly</a> in March 2021.</p>
-            <p>After working at early-stage startups, now I'm seeking my next junior/mid software engineering opportunity.</p>
-            <p>My dream is to one day become a CTO or other type of executive, but I'm not in a hurry. In my spare time, you can find me 
+            <p>My dream is to one day become a manager or be in some other leadership role, where I can make decisions that benefit the productivity and wellness of the team, as well as nurture and inspire individuals just as those before me have. In my spare time, you can find me 
                 painting or hosting paint n' sips, skiing blues, backpacking with a 700 lumen flashlight (because I'm scared of the dark),
                 doing improv with no shame (e.g. yodeling),
                 playing Genshin Impact or Honkai Star Rail on my phone,
